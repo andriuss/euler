@@ -1,5 +1,5 @@
 ## Project Euler Solutions
 
-Submit pull requests with problem answers, will pick best solution and merge :)
+Submit pull requests with problem answers :)
 
 https://projecteuler.net/
